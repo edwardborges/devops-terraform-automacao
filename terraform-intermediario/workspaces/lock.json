@@ -1,0 +1,8 @@
+{
+    "LockID": {
+      "S": "tfstate-240706599189/env:/prod/workspaces/terraform.tfstate-md5"
+    },
+    "Digest": {
+      "S": "ade9c550e50bb42ef83d466a324c69a4"
+    }
+  }
